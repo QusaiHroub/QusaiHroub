@@ -37,5 +37,5 @@ I am a developer who is passionate about stuff like Intelligent systems, deep le
   
 </p>
 
-[gmail_badge]: https://img.shields.io/badge/-qusaihroub.r%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=QusaiHroub:QusaiHroub.r@gmail.com
-[outlook_badge]: https://img.shields.io/badge/-qusai.hroub%40outlook.com-blue?style=flat-square&logo=outlook&logoColor=white&link=QusaiHroub:QusaiHroub.r@gmail.com
+[gmail_badge]: https://img.shields.io/badge/-qusaihroub.r%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=QusaiHroub:qusaihroub.r@gmail.com
+[outlook_badge]: https://img.shields.io/badge/-qusai.hroub%40outlook.com-blue?style=flat-square&logo=Outlook&logoColor=white&link=QusaiHroub:qusai.hroub@outlook.com
